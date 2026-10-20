@@ -1,0 +1,26 @@
+{
+  "collection": "Tabler Icons outline",
+  "author": "Paweł Kuna",
+  "license": "MIT",
+  "license_url": "https://github.com/tabler/tabler-icons/blob/main/LICENSE",
+  "license_file": "LICENSE-Tabler.txt",
+  "verified_date": "2026-10-20",
+  "origin": "Tabler Icons outline SVGs; official upstream file paths and MIT notice retained. Geometry is unmodified.",
+  "icons": [
+    {
+      "file": "users-group.svg",
+      "source_url": "https://github.com/tabler/tabler-icons/blob/main/icons/outline/users-group.svg",
+      "meaning": "People or group, not a quantitative activity measure"
+    },
+    {
+      "file": "binary-tree-2.svg",
+      "source_url": "https://github.com/tabler/tabler-icons/blob/main/icons/outline/binary-tree-2.svg",
+      "meaning": "Tree structure; choose only when the node's method or object warrants it"
+    },
+    {
+      "file": "map.svg",
+      "source_url": "https://github.com/tabler/tabler-icons/blob/main/icons/outline/map.svg",
+      "meaning": "Map or spatial context; alone does not express clustering"
+    }
+  ]
+}

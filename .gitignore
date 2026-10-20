@@ -1,0 +1,19 @@
+# Local tasks and user-provided research material
+/work/
+/outputs/
+/private/
+*.pdf
+
+# Runtime and temporary files
+node_modules/
+.venv/
+__pycache__/
+*.py[cod]
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example

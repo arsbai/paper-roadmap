@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文技术路线图"
+  short_description: "根据论文提炼研究逻辑、选择图标与原图，制作并核验可编辑技术路线图"
+  default_prompt: "请使用 $paper-roadmap 根据我提供的论文制作英文技术路线图，灵活选择布局和配色，视觉层级最多三级。"
