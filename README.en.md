@@ -8,6 +8,7 @@ A Codex skill for turning scientific papers, research plans, and methods into ed
 
 - Organizes evidence-backed inputs, transformations, outputs, branches, comparisons, and validation relationships.
 - Places useful paper figures inside the relevant stages: input samples, intermediate states, explanation curves, maps, or validation pairs.
+- Prefers method schematics, comparison structures, and action pictograms with concise labels and essential conditions; there is no fixed image-to-text ratio.
 - Reduces routine implementation detail in study overviews while retaining key filtering, selection, grouping, scale choices, and innovations.
 - Uses at most three visual hierarchy levels and three font sizes. Layout, dimensions, colors, and icon choices adapt to the research.
 - Supports localized edits against an approved baseline, persistent deletion records, and explicitly requested Chinese or bilingual outputs.
@@ -34,8 +35,10 @@ Attach a readable paper PDF. Optionally specify the intended use, display size, 
 ```text
 Use $paper-roadmap to create a whole-study framework from the attached paper.
 Show the key inputs, transformations, and outputs. Integrate useful paper figures
-into the relevant stages and reduce small print. Choose a suitable layout and
-palette, use at most three hierarchy levels, and deliver editable SVG and PNG.
+into the relevant stages. Prefer method schematics and action pictograms with
+concise labels, retaining essential conditions. Label self-drawn method
+illustrations as Schematic. Choose a suitable layout and palette, use at most
+three hierarchy levels, and deliver editable SVG and PNG.
 ```
 
 Without an explicit language request, the skill creates **English only**, even when the conversation or source material is Chinese. Request “Chinese only” or “matching English and Chinese versions” to override this. Content-locked revisions preserve the existing diagram's language unless a language change is authorized.
@@ -57,6 +60,19 @@ Use the approved version as the baseline. Enlarge only the central module's text
 and icons. Keep all other wording, numbers, research relationships, and images
 unchanged, with at most three font sizes.
 ```
+
+For a more visual revision:
+
+```text
+Replace the method section's explanatory lists with schematics and concise labels.
+If matching or DID is in the source, use paired points or group-by-time changes.
+Illustrate activity categories with suitable action pictograms. Keep the comparison
+conditions, key thresholds, and research relationships; move routine parameters
+to the companion notes. Mark self-drawn method illustrations as Schematic and
+preserve the meaning of real photographs and result data.
+```
+
+Pictograms show representative actions rather than complete category definitions. Schematic point counts, slopes, and spacing do not encode the paper's empirical results.
 
 For deletion persistence, first request a specific deletion and record it, then request a layout edit that keeps deleted content absent.
 
@@ -91,6 +107,8 @@ Automated checks cover font sizes, bounds, and some text issues. They do not ass
 ## Validation scope
 
 Two urban spatial/transport research papers were used in local diagramming trials. These informed revisions addressing detached figure panels, excessive small print, and omitted selection steps during compression. The revised second-paper diagram also received an English version, automated checks, source review, and whole-view/detail inspection.
+
+A further local revision used a street-view research plan to replace text-heavy matching and change-analysis lists with method schematics and to illustrate activity categories with action pictograms. Research relationships, original photos, and sample counts were checked for preservation, followed by whole-view and detail inspection. This informed the default preference for diagrams that carry the explanation and labels that retain essentials. The instruction update has not received a new independent blind trial.
 
 Cross-disciplinary behavior, editor compatibility, consecutive localized edits, and deletion persistence still require task-specific validation. The default-English configuration was checked but has not received an independent blind invocation test. See [local testing scenarios](skills/paper-roadmap/references/local-testing.md). Paper PDFs and personal trial diagrams are not distributed here.
 
