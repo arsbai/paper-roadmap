@@ -1,0 +1,366 @@
+[
+  {
+    "id": "01-geological-data",
+    "title": "A novel framework for leveraging geological environment big data to assess sustainable development goals",
+    "authors": "Han W., Wang L., Wang Y., Li J., Yan J., and Shao Y.",
+    "year": 2025,
+    "doi": "10.59717/j.xinn-geo.2024.100122",
+    "figure": "Figure 1",
+    "image_url": "https://data.the-innovation.org/innovation-data/geoscience/2025/2/PIC/XINNGEOSCIENCE-2024-0058-1.jpg",
+    "pdf_url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2024-0058.pdf",
+    "learn": "Observation scene as the main object; multi-source inputs and model stages integrated into the landscape",
+    "license_verified": true,
+    "license_evidence": {
+      "type": "official article PDF, page 1",
+      "url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2024-0058.pdf",
+      "statement": "This is an open access article under the CC BY license (https://creativecommons.org/licenses/by/4.0/).",
+      "verification": "PDF first-page text inspected locally"
+    },
+    "article_url": "https://www.the-innovation.org/article/doi/10.59717/j.xinn-geo.2024.100122",
+    "file": "01-geological-data.jpg",
+    "journal": "The Innovation Geoscience",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "accessed": "2026-10-23",
+    "source_image_sha256": "c33359677fe30e55d0430900276fb5fe80780b5471dca844ffca024e9ffbbeec",
+    "file_sha256": "21eae125dac172cfeb9849dff2289e3b421c0c2fdac4cc101d689f90b705c884",
+    "original_dimensions": [
+      4505,
+      4252
+    ],
+    "dimensions": [
+      2400,
+      2265
+    ],
+    "processing": "Full figure retained; proportional resize to fit within 2400 x 2400 px if needed; JPEG re-encoding. No cropping or scientific annotations added."
+  },
+  {
+    "id": "02-soil-moisture",
+    "title": "Repositioning satellite soil moisture for agricultural drought monitoring: Misconceptions, bottlenecks, and future directions",
+    "authors": "Song P. and Huang J.",
+    "year": 2026,
+    "doi": "10.59717/j.xinn-geo.2026.100194",
+    "figure": "Figure 1",
+    "article_url": "https://www.the-innovation.org/article/doi/10.59717/j.xinn-geo.2026.100194",
+    "image_url": "https://data.the-innovation.org/innovation-data/geoscience/2026/1/PIC/XINNGEOSCIENCE-2025-0189-1_online.jpg",
+    "pdf_url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0189.pdf",
+    "learn": "Pale modular panels combine input-method-output illustrations with distinct bottlenecks; soil cross-sections and plant roots explain the method before text",
+    "license_verified": true,
+    "license_evidence": {
+      "type": "official article PDF, page 1, search-indexed text",
+      "url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0189.pdf",
+      "statement": "This is an open access article under the CC BY license (https://creativecommons.org/licenses/by/4.0/).",
+      "verification": "Official PDF first-page copyright and license statement inspected in web search index; not inferred from website footer"
+    },
+    "visual_verified": true,
+    "visual_evidence": "Official figure image opened in browser and visually inspected as a rendered screenshot.",
+    "file": "02-soil-moisture.jpg",
+    "journal": "The Innovation Geoscience",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "accessed": "2026-10-23",
+    "source_image_sha256": "0c5b66529619252a0c602ff42ded4cc5829c3536c67942551c2c485b7b7c037f",
+    "file_sha256": "1dca4c1d6d973d08326b0bdb8ac94588616d587563f25afb486bec52306c5678",
+    "original_dimensions": [
+      1013,
+      656
+    ],
+    "dimensions": [
+      1013,
+      656
+    ],
+    "processing": "Full figure retained; proportional resize to fit within 2400 x 2400 px if needed; JPEG re-encoding. No cropping or scientific annotations added."
+  },
+  {
+    "id": "03-earth-system",
+    "title": "What's next in Geoscience?",
+    "authors": "The Innovation Geoscience Editorial Team",
+    "year": 2026,
+    "doi": "10.59717/j.xinn-geo.2026.100198",
+    "figure": "Figure 1",
+    "image_url": "https://data.the-innovation.org/innovation-data/geoscience/newcreate/TIG-2026-0002-1_online.jpg",
+    "pdf_url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/TIG-2026-0002.pdf",
+    "learn": "A central research object connects domains; small conceptual illustrations communicate system components",
+    "license_verified": true,
+    "license_evidence": {
+      "type": "official article PDF, page 1",
+      "url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/TIG-2026-0002.pdf",
+      "statement": "This is an open access article under the CC BY license (https://creativecommons.org/licenses/by/4.0/).",
+      "verification": "PDF first-page text inspected locally"
+    },
+    "article_url": "https://www.the-innovation.org/article/doi/10.59717/j.xinn-geo.2026.100198",
+    "file": "03-earth-system.jpg",
+    "journal": "The Innovation Geoscience",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "accessed": "2026-10-23",
+    "source_image_sha256": "a8a2f5e941d0478b7437afa32ef6ed29de2366ce5e2194d92cb144d647a97794",
+    "file_sha256": "b381700a5dcab9b2d25746896aaeac4747fcff3b261878119d8d8cca3dd4bd0e",
+    "original_dimensions": [
+      1013,
+      585
+    ],
+    "dimensions": [
+      1013,
+      585
+    ],
+    "processing": "Full figure retained; proportional resize to fit within 2400 x 2400 px if needed; JPEG re-encoding. No cropping or scientific annotations added."
+  },
+  {
+    "id": "04-earth-governance",
+    "title": "Navigating Earth governance: A cybernetic and pragmatic pathway to digital twin Earth",
+    "authors": "Li X., Su J., and Yuan S.",
+    "year": 2026,
+    "doi": "10.59717/j.xinn-geo.2026.100203",
+    "figure": "Figure 1",
+    "image_url": "https://data.the-innovation.org/innovation-data/geoscience/newcreate/XINNGEOSCIENCE-2025-0086-1_online.jpg",
+    "pdf_url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0086.pdf",
+    "learn": "Human-AI and physical-digital tasks separated by meaningful paths; feedback applies only when scientifically supported",
+    "license_verified": true,
+    "license_evidence": {
+      "type": "official article PDF, page 1",
+      "url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0086.pdf",
+      "statement": "This is an open access article under the CC BY license (https://creativecommons.org/licenses/by/4.0/).",
+      "verification": "Official PDF first-page text inspected with web tool"
+    },
+    "article_url": "https://www.the-innovation.org/article/doi/10.59717/j.xinn-geo.2026.100203",
+    "file": "04-earth-governance.jpg",
+    "journal": "The Innovation Geoscience",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "accessed": "2026-10-23",
+    "source_image_sha256": "b2b5bfd98bfd3b014804f271d83c287db53e6899252a0d8e0ad8fc6246376ac9",
+    "file_sha256": "4b95f3a4a328015b0cd6c9f3c384a1790f91490227486cbe796dbc19a2f31a97",
+    "original_dimensions": [
+      1013,
+      670
+    ],
+    "dimensions": [
+      1013,
+      670
+    ],
+    "processing": "Full figure retained; proportional resize to fit within 2400 x 2400 px if needed; JPEG re-encoding. No cropping or scientific annotations added."
+  },
+  {
+    "id": "05-urban-lakes",
+    "title": "Urban lakes for sustainable cities: From ecology to environment, society, and economy",
+    "authors": "Shi R., Cui Y., Zhang H., et al.",
+    "year": 2026,
+    "doi": "10.59717/j.xinn-geo.2026.100196",
+    "figure": "Figure 1",
+    "image_url": "https://data.the-innovation.org/innovation-data/geoscience/2026/1/PIC/XINNGEOSCIENCE-2025-0155-1_online.jpg",
+    "pdf_url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0155.pdf",
+    "learn": "An urban scene unifies ecological, social and economic functions; use parallel groups rather than a false causal sequence",
+    "article_url": "https://www.the-innovation.org/article/doi/10.59717/j.xinn-geo.2026.100196",
+    "license_verified": true,
+    "license_evidence": {
+      "type": "official article PDF, page 1, search-indexed text",
+      "url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0155.pdf",
+      "statement": "This is an open access article under the CC BY license (https://creativecommons.org/licenses/by/4.0/).",
+      "verification": "Official PDF first-page license statement confirmed in web search index by parent agent"
+    },
+    "file": "05-urban-lakes.jpg",
+    "journal": "The Innovation Geoscience",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "accessed": "2026-10-23",
+    "source_image_sha256": "16b374df7589c183d58d89ddbd878e8b3610be69663ebc55173d6b6f71c0749b",
+    "file_sha256": "f9e6214eb8a15f3498128293f8af8a02d77714ee36ad227781648cc654eb9d89",
+    "original_dimensions": [
+      1013,
+      670
+    ],
+    "dimensions": [
+      1013,
+      670
+    ],
+    "processing": "Full figure retained; proportional resize to fit within 2400 x 2400 px if needed; JPEG re-encoding. No cropping or scientific annotations added."
+  },
+  {
+    "id": "06-dryland-responses",
+    "title": "Non-linear responses of plants enhance their resistance to drought in drylands",
+    "authors": "Cui G., Wang Y., Pugnaire F. I., and Zhang L.",
+    "year": 2025,
+    "doi": "10.59717/j.xinn-geo.2025.100136",
+    "figure": "Figure 1",
+    "article_url": "https://www.the-innovation.org/article/doi/10.59717/j.xinn-geo.2025.100136",
+    "image_url": "https://data.the-innovation.org/innovation-data/geoscience/2025/2/PIC/XINNGEOSCIENCE-2025-0009-1.jpg",
+    "pdf_url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0009.pdf",
+    "learn": "A landscape gradient connects a central conceptual response curve to small mechanism illustrations; use thresholds only when supported by the study",
+    "license_verified": true,
+    "license_evidence": {
+      "type": "official article PDF, page 1, search-indexed text",
+      "url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0009.pdf",
+      "statement": "This is an open access article under the CC BY license (https://creativecommons.org/licenses/by/4.0/).",
+      "verification": "Official PDF first-page copyright and license statement inspected in web search index; not inferred from website footer"
+    },
+    "visual_verified": true,
+    "visual_evidence": "Official figure image opened in browser and visually inspected as a rendered screenshot.",
+    "file": "06-dryland-responses.jpg",
+    "journal": "The Innovation Geoscience",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "accessed": "2026-10-23",
+    "source_image_sha256": "a965b859d6fc50545f716702b4dd20de379545ce6b5275c669101cb4c3807642",
+    "file_sha256": "ce99e27d313d2124677e1bfa87cbe77b7c6c550bc158ede68b06f5f3a1ef6362",
+    "original_dimensions": [
+      3071,
+      1983
+    ],
+    "dimensions": [
+      2400,
+      1550
+    ],
+    "processing": "Full figure retained; proportional resize to fit within 2400 x 2400 px if needed; JPEG re-encoding. No cropping or scientific annotations added."
+  },
+  {
+    "id": "07-waste-monitoring",
+    "title": "Space-air-ground integrated system for illegal waste dumping sites monitoring",
+    "authors": "Zhao R., Deng L., Zhou X., and Zhou Y.",
+    "year": 2025,
+    "doi": "10.59717/j.xinn-geo.2026.100182",
+    "figure": "Figure 1",
+    "article_url": "https://www.the-innovation.org/article/doi/10.59717/j.xinn-geo.2026.100182",
+    "image_url": "https://data.the-innovation.org/innovation-data/geoscience/2025/4/PIC/XINNGEOSCIENCE-2025-0063-1_online.jpg",
+    "pdf_url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0063.pdf",
+    "learn": "Concrete satellite, drone and ground-observation objects connect to data and monitoring tasks; borrow the device-data relationships rather than the saturated background",
+    "license_verified": true,
+    "license_evidence": {
+      "type": "official article PDF, page 1",
+      "url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0063.pdf",
+      "statement": "This is an open access article under the CC BY license (https://creativecommons.org/licenses/by/4.0/).",
+      "verification": "Official PDF first-page copyright and CC BY 4.0 statement inspected with web tool"
+    },
+    "visual_verified": true,
+    "visual_evidence": "Official figure image opened in browser and visually inspected as a rendered screenshot.",
+    "file": "07-waste-monitoring.jpg",
+    "journal": "The Innovation Geoscience",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "accessed": "2026-10-23",
+    "source_image_sha256": "d38c145fe2e326abe3d8ad183c79e0a65931013f1f774859c0da21dc7195b00b",
+    "file_sha256": "0f21fc9eb60766e3403902005cfd505bc723871fc68a4cf7fb20899862381d01",
+    "original_dimensions": [
+      1013,
+      670
+    ],
+    "dimensions": [
+      1013,
+      670
+    ],
+    "processing": "Full figure retained; proportional resize to fit within 2400 x 2400 px if needed; JPEG re-encoding. No cropping or scientific annotations added."
+  },
+  {
+    "id": "08-river-ice",
+    "title": "River ice monitoring from optical and SAR remote sensing perspective: Advances, challenges and opportunities",
+    "authors": "Su H., Xu W., Li H., Yang Q., Chen Y., Wu Z., Paoletti M. E., and Du Q.",
+    "year": 2025,
+    "doi": "10.59717/j.xinn-geo.2025.100152",
+    "figure": "Figure 1",
+    "article_url": "https://www.the-innovation.org/article/doi/10.59717/j.xinn-geo.2025.100152",
+    "image_url": "https://data.the-innovation.org/innovation-data/geoscience/2025/3/PIC/XINNGEOSCIENCE-2025-0033-1_online.jpg",
+    "pdf_url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0033.pdf",
+    "learn": "Thin-bordered pale panels integrate real maps, satellite objects and physical river cross-sections; small process drawings explain different mechanisms in parallel",
+    "license_verified": true,
+    "license_evidence": {
+      "type": "official article PDF, page 1, search-indexed text",
+      "url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0033.pdf",
+      "statement": "This is an open access article under the CC BY license (https://creativecommons.org/licenses/by/4.0/).",
+      "verification": "Official PDF first-page copyright and license statement inspected in web search index; not inferred from website footer"
+    },
+    "visual_verified": true,
+    "visual_evidence": "Official figure image opened in browser and visually inspected as a rendered screenshot.",
+    "file": "08-river-ice.jpg",
+    "journal": "The Innovation Geoscience",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "accessed": "2026-10-23",
+    "source_image_sha256": "1fb5ff71d65d47812b1cf2d719161a2bc3c6048eef98cef9a912afa5ca395665",
+    "file_sha256": "ef8928cb6546c3068447a27fbdb3c234c2afc30fde2c1f0a0018b43cdc32fede",
+    "original_dimensions": [
+      2245,
+      1417
+    ],
+    "dimensions": [
+      2245,
+      1417
+    ],
+    "processing": "Full figure retained; proportional resize to fit within 2400 x 2400 px if needed; JPEG re-encoding. No cropping or scientific annotations added."
+  },
+  {
+    "id": "09-prebiomics",
+    "title": "Prebiomics: An omics framework for prebiotic chemistry",
+    "authors": "Dong M. and Yang W.",
+    "year": 2026,
+    "doi": "10.59717/j.xinn-geo.2026.100200",
+    "figure": "Figure 1",
+    "article_url": "https://www.the-innovation.org/article/doi/10.59717/j.xinn-geo.2026.100200",
+    "image_url": "https://data.the-innovation.org/innovation-data/geoscience/2026/2/PIC/XINNGEOSCIENCE-2025-0205-1_online.jpg",
+    "pdf_url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0205.pdf",
+    "learn": "Two evidence domains converge into one framework, with instruments, spectra and network representations; borrow the convergence structure and concrete objects, not the dark fills",
+    "license_verified": true,
+    "license_evidence": {
+      "type": "official article PDF, page 1, search-indexed text",
+      "url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0205.pdf",
+      "statement": "This is an open access article under the CC BY license (https://creativecommons.org/licenses/by/4.0/).",
+      "verification": "Official PDF first-page copyright and license statement inspected in web search index; not inferred from website footer"
+    },
+    "visual_verified": true,
+    "visual_evidence": "Official figure image opened in browser and visually inspected as a rendered screenshot.",
+    "file": "09-prebiomics.jpg",
+    "journal": "The Innovation Geoscience",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "accessed": "2026-10-23",
+    "source_image_sha256": "32833695d9d954c933fc25d6eb0821720d6e254698e80ed2a40e06a6b4571b3d",
+    "file_sha256": "b449886fb70723df267532df37b3e940794ee17ac1d4f9307c51fafbe69a86fe",
+    "original_dimensions": [
+      1014,
+      522
+    ],
+    "dimensions": [
+      1014,
+      522
+    ],
+    "processing": "Full figure retained; proportional resize to fit within 2400 x 2400 px if needed; JPEG re-encoding. No cropping or scientific annotations added."
+  },
+  {
+    "id": "10-heatwave-pai",
+    "title": "Enhancing the resilience of social-ecological systems to heatwave risk through the Prediction-Adaptation-Integration framework",
+    "authors": "Yang Z. and Peng J.",
+    "year": 2027,
+    "doi": "10.59717/j.xinn-geo.2026.100260",
+    "figure": "Figure 1",
+    "article_url": "https://www.the-innovation.org/article/doi/10.59717/j.xinn-geo.2026.100260",
+    "image_url": "https://data.the-innovation.org/innovation-data/geoscience/newcreate/XINNGEOSCIENCE-2025-0021-1_online.jpg",
+    "pdf_url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0021.pdf",
+    "learn": "Three meaningful modules form a recursive loop with clear visual hierarchy; use feedback only when the source describes it, and replace the dark illustrative background with pale panels",
+    "license_verified": true,
+    "license_evidence": {
+      "type": "official article PDF, page 1, search-indexed text",
+      "url": "https://www.the-innovation.org/data/article/geoscience/preview/pdf/XINNGEOSCIENCE-2025-0021.pdf",
+      "statement": "This is an open access article under the CC BY license (https://creativecommons.org/licenses/by/4.0/).",
+      "verification": "Official PDF first-page copyright and license statement inspected in web search index; not inferred from website footer"
+    },
+    "visual_verified": true,
+    "publication_note": "Published online January 28, 2026; the official PDF and recommended citation use 2027, volume 5, article 100260.",
+    "third_party_note": "Figure caption states that the heatwave background image was generated using AI tools for visual design; do not treat it as scientific observation.",
+    "visual_evidence": "Official figure image opened in browser and visually inspected as a rendered screenshot.",
+    "file": "10-heatwave-pai.jpg",
+    "journal": "The Innovation Geoscience",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "accessed": "2026-10-23",
+    "source_image_sha256": "62c05dd061fef7801026a4722fb0442331199377d425db6283d4fc6c05ab7355",
+    "file_sha256": "f9cc0186a1c6c6bbc09075148ad48161d2ce0d6024c72542c6efb16311efbae2",
+    "original_dimensions": [
+      1013,
+      670
+    ],
+    "dimensions": [
+      1013,
+      670
+    ],
+    "processing": "Full figure retained; proportional resize to fit within 2400 x 2400 px if needed; JPEG re-encoding. No cropping or scientific annotations added."
+  }
+]

@@ -1,4 +1,4 @@
 interface:
   display_name: "论文技术路线图"
-  short_description: "根据论文提炼研究逻辑、选择图标与原图，制作并核验可编辑技术路线图"
-  default_prompt: "请使用 $paper-roadmap 根据我提供的论文制作英文技术路线图，灵活选择布局和配色，视觉层级最多三级。"
+  short_description: "以 Innovation 式图解表达研究逻辑，默认英文，经两轮视觉对比输出可编辑图"
+  default_prompt: "请使用 $paper-roadmap 根据我提供的材料制作英文研究框架图，采用接近 The Innovation 的图解式学术风格，完成两轮成图与参考图的视觉对比和优化，输出可编辑 SVG 与 PNG。"

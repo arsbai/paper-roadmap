@@ -4,6 +4,8 @@ English · [中文](README.md)
 
 A Codex skill for turning scientific papers, research plans, and methods into editable research frameworks, technical roadmaps, and method diagrams. **English SVG and PNG preview are the defaults.**
 
+The default visual direction is inspired by **The Innovation / The Innovation Geoscience**: pale task regions, clear heading bands, illustrated objects and methods, integrated source figures, and concise labels. Research relationships still determine the layout, and explicit user preferences take precedence. New diagrams and complete redesigns receive two actual draft-to-reference visual comparison and refinement rounds before delivery.
+
 ## What it does
 
 - Organizes evidence-backed inputs, transformations, outputs, branches, comparisons, and validation relationships.
@@ -11,6 +13,7 @@ A Codex skill for turning scientific papers, research plans, and methods into ed
 - Prefers method schematics, comparison structures, and action pictograms with concise labels and essential conditions; there is no fixed image-to-text ratio.
 - Reduces routine implementation detail in study overviews while retaining key filtering, selection, grouping, scale choices, and innovations.
 - Uses at most three visual hierarchy levels and three font sizes. Layout, dimensions, colors, and icon choices adapt to the research.
+- Includes 10 attributed, independently licensed Innovation reference figures. Select relevant examples for visual organization, without importing their research content.
 - Supports localized edits against an approved baseline, persistent deletion records, and explicitly requested Chinese or bilingual outputs.
 
 This is a diagramming workflow. It does not reproduce the paper's analysis or fabricate research results.
@@ -39,6 +42,8 @@ into the relevant stages. Prefer method schematics and action pictograms with
 concise labels, retaining essential conditions. Label self-drawn method
 illustrations as Schematic. Choose a suitable layout and palette, use at most
 three hierarchy levels, and deliver editable SVG and PNG.
+Use the default Innovation-inspired visual direction and complete two visual
+comparison and refinement rounds against relevant references.
 ```
 
 Without an explicit language request, the skill creates **English only**, even when the conversation or source material is Chinese. Request “Chinese only” or “matching English and Chinese versions” to override this. Content-locked revisions preserve the existing diagram's language unless a language change is authorized.
@@ -85,6 +90,7 @@ For deletion persistence, first request a specific deletion and record it, then 
 | `diagram-model.json` | Task-sized record of nodes, relationships, evidence, assets, open questions, and revisions |
 | Asset/source records | Paper figure locations, crops, icon origins, and licenses |
 | Check records | Separate automated checks, source review, visual inspection, and outstanding limitations |
+| Visual comparison records | References, draft and revised renderings, viewing widths, concrete findings, and applied improvements |
 
 Names may vary by task. Other languages are delivered when requested; PDF or PPTX can be requested separately. Browser rendering does not establish compatibility with every editing application, and font availability can affect display.
 
@@ -114,6 +120,8 @@ Cross-disciplinary behavior, editor compatibility, consecutive localized edits, 
 
 ## Contents and license
 
-The installable skill is in [`skills/paper-roadmap`](skills/paper-roadmap): entry instructions, UI metadata, research/design references, the render helper, and a small set of attributed Tabler icons. Reference design lessons are distributed as text; private screenshots and historical diagrams are excluded.
+The installable skill is in [`skills/paper-roadmap`](skills/paper-roadmap): entry instructions, UI metadata, research/design references, the render helper, a small set of attributed Tabler icons, and an Innovation reference-image library. Private screenshots and historical diagrams are excluded.
 
 Original instructions, documentation, and scripts use the [MIT License](LICENSE). Tabler icons retain their upstream MIT notice; see [third-party notices](THIRD_PARTY_NOTICES.md). User-supplied paper images, photographs, and logos retain their own rights. Embedding them in an output does not place them under this project's license.
+
+Innovation reference figures retain their **CC BY 4.0** licenses and are not MIT content. The [reference index](skills/paper-roadmap/assets/innovation/index.md) and its `sources.json` record authors, articles, DOIs, figure numbers, original image links, PDF license checks, and processing. They illustrate visual organization, provide no evidence for a new study, and imply no journal endorsement. Bundled images support offline comparison; reopening the websites is unnecessary for every task.
