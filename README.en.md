@@ -12,7 +12,9 @@ The default visual direction is inspired by **The Innovation / The Innovation Ge
 - Places useful paper figures inside the relevant stages: input samples, intermediate states, explanation curves, maps, or validation pairs.
 - Prefers method schematics, comparison structures, and action pictograms with concise labels and essential conditions; there is no fixed image-to-text ratio.
 - Reduces routine implementation detail in study overviews while retaining key filtering, selection, grouping, scale choices, and innovations.
-- Uses at most three visual hierarchy levels and three font sizes. Layout, dimensions, colors, and icon choices adapt to the research.
+- Uses at most three visual hierarchy levels and three shared font sizes across the figure. Labels with the same role share a size; weight is managed separately. Layout and dimensions adapt to the research.
+- Identifies actual platforms and models with sourced logos, while process schematics explain transformations.
+- Distinguishes whole-study overviews from detailed method diagrams, with written lessons from eight additional urban-research reference figures. Their original images are not bundled.
 - Includes 10 attributed, independently licensed Innovation reference figures. Select relevant examples for visual organization, without importing their research content.
 - Supports localized edits against an approved baseline, persistent deletion records, and explicitly requested Chinese or bilingual outputs.
 
@@ -81,6 +83,12 @@ Pictograms show representative actions rather than complete category definitions
 
 For deletion persistence, first request a specific deletion and record it, then request a layout edit that keeps deleted content absent.
 
+## Choosing text, logos, and diagrams
+
+Retain core methods, key data transformations, and the time, analysis units, and comparison conditions needed to understand the design. Move full variable lists, routine parameters, operational reminders, and repeated prose to the paper or companion notes. Logos identify actual sources or models; concept icons identify objects; schematics explain transformations; real images show samples or outputs. Use space released by shorter text to enlarge meaningful graphics and labels, and rebalance spacing. Explicit deletions persist within the task.
+
+See the [information-design guide](skills/paper-roadmap/references/information-design.md) and [eight-reference lessons index](skills/paper-roadmap/assets/urban-methods/index.md).
+
 ## Deliverables
 
 | File | Purpose |
@@ -116,11 +124,13 @@ Two urban spatial/transport research papers were used in local diagramming trial
 
 A further local revision used a street-view research plan to replace text-heavy matching and change-analysis lists with method schematics and to illustrate activity categories with action pictograms. Research relationships, original photos, and sample counts were checked for preservation, followed by whole-view and detail inspection. This informed the default preference for diagrams that carry the explanation and labels that retain essentials. The instruction update has not received a new independent blind trial.
 
+Visual observations of eight additional urban-research reference figures and revisions from an initial to an approved roadmap informed the text-selection, logo/schematic, and shared font-size guidance. This documentation update has not received a new independent blind trial.
+
 Cross-disciplinary behavior, editor compatibility, consecutive localized edits, and deletion persistence still require task-specific validation. The default-English configuration was checked but has not received an independent blind invocation test. See [local testing scenarios](skills/paper-roadmap/references/local-testing.md). Paper PDFs and personal trial diagrams are not distributed here.
 
 ## Contents and license
 
-The installable skill is in [`skills/paper-roadmap`](skills/paper-roadmap): entry instructions, UI metadata, research/design references, the render helper, a small set of attributed Tabler icons, and an Innovation reference-image library. Private screenshots and historical diagrams are excluded.
+The installable skill is in [`skills/paper-roadmap`](skills/paper-roadmap): entry instructions, UI metadata, research/design references, the render helper, a small set of attributed Tabler icons, and an Innovation reference-image library. The eight-reference urban-methods index contains written design observations only. Its original images, private screenshots, and historical diagrams are excluded.
 
 Original instructions, documentation, and scripts use the [MIT License](LICENSE). Tabler icons retain their upstream MIT notice; see [third-party notices](THIRD_PARTY_NOTICES.md). User-supplied paper images, photographs, and logos retain their own rights. Embedding them in an output does not place them under this project's license.
 

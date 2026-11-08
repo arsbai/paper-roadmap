@@ -12,7 +12,7 @@ Original project instructions, documentation, and scripts are licensed under the
 - Full upstream notice: [LICENSE-Tabler.txt](skills/paper-roadmap/assets/icons/LICENSE-Tabler.txt)
 - File-specific origins and semantic guidance: [sources.json](skills/paper-roadmap/assets/icons/sources.json)
 
-Personal paper screenshots, historical diagrams containing paper photographs or logos, original PDFs, and local test artifacts are excluded from this repository. The textual design lessons in `assets/reference/context.md` summarize reusable diagramming principles without reproducing those images.
+Personal paper screenshots, historical diagrams containing paper photographs or logos, original PDFs, and local test artifacts are excluded from this repository. The textual design lessons in `assets/reference/context.md`, `references/information-design.md`, and `assets/urban-methods/index.md` (under `skills/paper-roadmap/`) summarize reusable diagramming principles without reproducing those images. The eight urban-methods filenames identify local references; their original images are not bundled and no unverified redistribution license is asserted.
 
 Future user-supplied paper figures or other media are not covered by this project's MIT License merely because the skill embeds them in an output. Preserve their original attribution and permissions.
 
